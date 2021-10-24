@@ -1,0 +1,31 @@
+.fa-instagram{
+    font-size: 27px;
+    color: gray;
+}
+span{
+    font-style: oblique;
+    color: gray;
+}
+.container3{
+text-align: center;
+}
+
+
+.dropdown{
+    float: right;
+}
+.container-fluid{
+    margin: auto;
+}
+.container{
+    margin:auto;
+}
+span{
+    float:right;
+}
+.fa-heart-o{
+    font-size: 24px;
+}
+.footer{
+   display: flex;
+}
